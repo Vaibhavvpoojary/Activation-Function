@@ -1,15 +1,15 @@
-# 🧠 Activation Functions Visualization
+#  Activation Functions Visualization
 
 A comprehensive Python visualization of common activation functions used in neural networks and deep learning.
 
-## 📊 Activation Functions Included
+##  Activation Functions Included
 
 - **Sigmoid** - S-shaped curve, outputs values between 0 and 1
 - **Tanh** - Hyperbolic tangent, outputs values between -1 and 1
 - **ReLU** - Rectified Linear Unit, outputs max(0, x)
 - **Softmax** - Normalizes outputs into probability distributions
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.6+
